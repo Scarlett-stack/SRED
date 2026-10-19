@@ -10,5 +10,8 @@ For problems related to romanian documentation you are encouraged to open an iss
 
 ## Labs
 
-[] TODO
+[x] Lab 1
+[] Lab 2
+[] Milestone 1
+[] Lab 3
 
